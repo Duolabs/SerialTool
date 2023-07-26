@@ -1,6 +1,7 @@
 # Serial COM Port Communication Software
 
 SerialTool free Software for Serial communication. Windows, MAC OX and Linux
+You can download lastest versions or Windows, MAC OSX and Linux on www.serialtool.com
 
 ## Features
 
