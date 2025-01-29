@@ -97,6 +97,17 @@ Download the latest versions for Windows, macOS, and Linux at [www.serialtool.co
 ![SpyPort](https://www.serialtool.com/assets/img/ScreenShots/2024/serialtool-serial-spyport-datalogger-com-sniffer_windows_2000.png "SpyPort Data Sniffer and Logger")
 *Advanced Serial Port Monitoring with Kernel-Level Access on Windows.*
 
+## Video Tutorials
+
+### Getting Started with SerialTool
+[SerialTool Basic Functions](https://youtu.be/9KUgLtzWmaY)  
+*Learn the basic features and setup of SerialTool.*
+
+### Advanced Monitoring and Logging
+[How to Sniff, Log, and Monitor Serial Port Traffic](https://youtu.be/X7EX7Wbh4BA)  
+*Detailed tutorial on using SpyPort to capture, log, and analyze serial port traffic on Windows.*
+
+
 ## License
 
 SerialTool is free to use. Additional features and support plans are available for professional users.
