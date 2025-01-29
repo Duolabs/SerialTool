@@ -1,42 +1,65 @@
-# Serial COM Port Communication Software
+# SerialTool - Advanced Serial Port Utility, Monitor, and Sniffer
 
-SerialTool free Software for Serial communication. Windows, MAC OX and Linux
-You can download lastest versions or Windows, MAC OSX and Linux on www.serialtool.com
+SerialTool is a powerful and versatile software designed for serial communication across Windows, macOS, and Linux. It functions as a **Serial Port Utility**, **Serial Port Monitor**, and **Serial Port Sniffer**, making it an essential tool for both hobbyists and professionals. 
+
+Download the latest versions for Windows, macOS, and Linux at [www.serialtool.com](https://www.serialtool.com).
 
 ## Features
 
-- **Universal Compatibility:** Enjoy multiplatform support, seamlessly operating on Windows (from Windows 7), MacOS (from Mojave onward), and Linux. Work effortlessly across diverse environments.
+- **Cross-Platform Compatibility:** Fully compatible with Windows (from Windows 7), macOS (from Mojave onward), and Linux, ensuring a seamless experience across platforms.
 
-- **Effortless COM Port Management:** Handle multiple COM ports within a single software instance, simplifying your workflow and enabling efficient device management.
+- **Advanced Byte and Bit Visualization:** Includes **ByteVisualizer**, which provides detailed byte-to-bit visualization and simulates serial port communication protocols, making it ideal for debugging and analysis.
 
-- **Tailored Serial Port Configurations:** Customize baud rates, data bits, stop bits, and parity settings to optimize communication performance according to your device requirements.
+- **Python Scripting Support:** Leverage Python scripts to automate serial communication tasks and extend SerialTool's functionality.
 
-- **Comprehensive Traffic Recording:** Capture serial port traffic in both ASCII and HEX formats, providing essential insights for analysis and troubleshooting.
+- **Effortless COM Port Management:** Manage multiple COM ports simultaneously in a single instance of SerialTool, streamlining your workflow and device handling.
 
-- **Intelligent Auto Answer:** Automate responses upon specific packet reception, simplifying application testing and streamlining tasks.
+- **Custom Serial Port Configurations:** Adjust baud rates, data bits, stop bits, parity settings, and more to meet specific communication requirements.
 
-- **Efficient Buffer Storage:** Access multiple buffers for data storage, efficiently organizing and managing data for enhanced transmission.
+- **Traffic Logging in Multiple Formats:** Record serial port traffic in both ASCII and HEX formats, enabling in-depth analysis and troubleshooting.
 
-- **Scheduled Sends:** Maintain precise control with scheduled timing sends, ensuring timely delivery and accurate performance testing.
+- **Hex File Editor:** Easily edit and analyze hexadecimal files, providing a comprehensive solution for working with binary data.
 
-- **Configurable Alarms:** Trigger alarms upon receiving specific packets, with the option to continue logging or stop as needed.
+- **USB Mapper and Viewer:** Visualize and map USB devices connected to your system, providing insights into USB topology and communication.
 
-- **Versatile User Base:** Designed to cater to both hobbyists, like Arduino users, and professionals, providing a powerful solution for diverse projects.
+- **Auto Answer Functionality:** Automate responses to specific packets for streamlined application testing.
 
-- **Full Signal Control:** Harness complete control over Serial Port signals, including DTR and RTS, empowering you in device communication.
+- **Buffer Management:** Utilize multiple buffers for efficient data storage and organized transmission.
 
-- **Hex View on Traffic:** Observe incoming and outgoing serial port traffic in HEX format, facilitating comprehensive data analysis.
+- **Scheduled Data Transmission:** Schedule precise timing for data sends, ensuring reliable and accurate performance testing.
 
-- **Extensive CRC Support:** Choose from 32 types of CRC support, ensuring data integrity and accuracy.
+- **Packet Alarms:** Set alarms to trigger on specific packet reception, with options to continue logging or stop as required.
 
-- **Packet or Continuous Data View:** View data in packet format or continuous data flow, adapting to your preferred visualization.
+- **Hexadecimal Traffic View:** Visualize incoming and outgoing traffic in HEX format for comprehensive data analysis.
 
-- **Flexible Time Formats:** Switch between various time views, from EPOCH to US and European time formats, to align with your preferences.
+- **CRC Support:** Access 32 CRC types to maintain data integrity.
 
-- **HEX or ASCII Byte Sending:** Flexibility to send data in either HEX or ASCII format, catering to your specific needs.
+- **Flexible Data Views:** View serial data in either packet format or continuous flow, depending on your needs.
 
-- **Time Difference View:** Quickly gauge time differences for the last sent or received packet, facilitating efficient data tracking.
+- **Time Format Options:** Switch between EPOCH, US, and European time formats to match your preferences.
 
-## About
+- **Hex and ASCII Data Sending:** Send data in HEX or ASCII format with ease.
 
-This Serial COM Port Communication Software is the result of years of hands-on experience in the embedded systems field. It has been meticulously designed to cater to the needs of both hobbyists and professionals, offering a feature-rich and user-friendly solution for seamless serial communication.
+- **Signal Control:** Gain full control over DTR and RTS signals for precise device communication.
+
+- **Real-Time Data Monitoring:** Analyze and debug serial traffic in real-time with intuitive and responsive tools.
+
+- **Modbus Compatibility:** Seamlessly interact with Modbus protocols, making SerialTool versatile for industrial applications.
+
+- **Spy Port Feature (Windows Only):** Monitor and intercept serial communication for advanced debugging (requires Windows kernel driver).
+
+- **Portable Linux Version:** The Linux version is available as a portable application, including all necessary libraries to avoid installation hassles.
+
+- **Comprehensive Documentation:** Access detailed guides and tutorials to get the most out of SerialTool.
+
+## Use Cases
+
+- Ideal for debugging embedded systems like Arduino and Raspberry Pi.
+- A perfect tool for serial communication testing in industrial and educational environments.
+- Suitable for hobbyists, engineers, and developers working on IoT, robotics, or custom hardware projects.
+
+## License
+
+SerialTool is free to use. Additional features and support plans are available for professional users.
+
+For more details, visit [www.serialtool.com](https://www.serialtool.com).
