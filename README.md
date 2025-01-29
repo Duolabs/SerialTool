@@ -58,6 +58,45 @@ Download the latest versions for Windows, macOS, and Linux at [www.serialtool.co
 - A perfect tool for serial communication testing in industrial and educational environments.
 - Suitable for hobbyists, engineers, and developers working on IoT, robotics, or custom hardware projects.
 
+
+## Some Screenshots
+
+### Serial Port Terminal
+![Serial Port Terminal](https://www.serialtool.com/assets/img/ScreenShots/2024/serialtool-serial-console_windows_2000.png "Serial Port Terminal")
+*Quickly understand serial data with clear ASCII or HEX representations.*
+
+### Serial Port HEX Terminal
+![Serial Port HEX Terminal](https://www.serialtool.com/assets/img/ScreenShots/2024/serialtool-serial-hex-terminal_windows_2000.png "Serial Port HEX Terminal")
+*Easily analyze and troubleshoot serial data with the intuitive hexadecimal view.*
+
+### Multiple COM Ports
+![Multiple COM Ports](https://www.serialtool.com/assets/img/ScreenShots/2024/serialtool-serial-multiple-com-ports_windows_1200.png "Multiple COM Ports")
+*Manage multiple COM ports simultaneously.*
+
+### Serial Port Oscilloscope
+![Serial Port Oscilloscope](https://www.serialtool.com/assets/img/ScreenShots/2024/serialtool-serial-oscilloscope-software_windows_2000.png "Serial Port Oscilloscope")
+*Visualize your serial data streams for intuitive understanding.*
+
+### ByteVisualizer
+![ByteVisualizer](https://www.serialtool.com/assets/img/ScreenShots/ByteVisualizer-SerialPort-byte-visualizer-bits.png "ByteVisualizer")
+*Byte-to-bit visualization and protocol simulation for debugging and analysis.*
+
+### Trigger Alarms
+![Trigger Alarms](https://www.serialtool.com/assets/img/ScreenShots/2024/serialtool-serial-trigger-alarms_windows_1200.png "Trigger Alarms")
+*Set alarms based on specific patterns in received data.*
+
+### File Transfer to Serial Port
+![File Transfer](https://www.serialtool.com/assets/img/ScreenShots/2024/serialtool-serial-port-file-transfer_windows_800.jpg "File Transfer to Serial Port")
+*Achieve reliable data transfer with customizable timing and packet sizes.*
+
+### Modbus Client
+![Modbus Client](https://www.serialtool.com/assets/img/ScreenShots/2024/serialtool-serial-modbus-client_windows_1200.png "Modbus Client")
+*Interact with Modbus Servers (RTU, ASCII, TCP) effortlessly.*
+
+### SpyPort - Data Sniffer and Logger (Windows Only)
+![SpyPort](https://www.serialtool.com/assets/img/ScreenShots/2024/serialtool-serial-spyport-datalogger-com-sniffer_windows_2000.png "SpyPort Data Sniffer and Logger")
+*Advanced Serial Port Monitoring with Kernel-Level Access on Windows.*
+
 ## License
 
 SerialTool is free to use. Additional features and support plans are available for professional users.
