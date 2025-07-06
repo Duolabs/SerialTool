@@ -1,6 +1,18 @@
 # SerialTool - Advanced Serial Port Utility, Monitor, and Sniffer
 
-SerialTool is a powerful and versatile software designed for serial communication across Windows, macOS, and Linux. It functions as a **Serial Port Utility**, **Serial Port Monitor**, and **Serial Port Sniffer**, making it an essential tool for both hobbyists and professionals. 
+SerialTool is a powerful and versatile software designed for serial communication across **Windows, macOS, and Linux**. It functions as a Serial Port Utility, Serial Port Monitor, and Serial Port Sniffer, making it an essential tool for both hobbyists and professionals.
+
+SerialTool supports multiple **COM ports simultaneously**, enabling concurrent monitoring, communication, and control. It features hexadecimal and ASCII viewers, read/write consoles, and traffic logging with timestamp precision. With built-in support for **Modbus RTU and Modbus ASCII**, it includes a Modbus client for quick protocol testing.
+
+Advanced users benefit from a built-in **Python** scripting engine for automation, serial-to-network bridging, timed packet sending, and automatic response triggers based on incoming data. 
+
+SerialTool also includes **Virtual COM Port emulation**, allowing you to create, link, and manage virtual port pairs for simulation and loopback testing.
+
+For deeper insight, SerialTool offers a **serial sniffer** kernel driver (on Windows) that captures low-level I/O control (IOCTL) signals and raw serial data, even from ports opened by other applications. It features a live session log, byte visualizer, structured packet list, IO controls, and a SerialScope for graphical waveform analysis.
+
+Data can be exported in binary, hex, ASCII, and directly to **.pcap files for Wireshark** analysis. A variety of UI themes and dockable windows provide a fully customizable user experience.
+
+Whether you're developing firmware, debugging hardware interfaces, or reverse-engineering devices, SerialTool delivers the reliability, flexibility, and depth you need in a professional-grade serial communication suite. 
 
 Download the latest versions for Windows, macOS, and Linux at [www.serialtool.com](https://www.serialtool.com).
 
