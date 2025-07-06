@@ -39,6 +39,8 @@ Download the latest versions for Windows, macOS, and Linux at [www.serialtool.co
 - **Time Format Options:** Switch between EPOCH, US, and European time formats to match your preferences.
 
 - **Hex and ASCII Data Sending:** Send data in HEX or ASCII format with ease.
+  
+- **Multiple format data export:** Ability to export data in various formats: binary, hexadecimal, ASCII, file, and directly to .pcap (for analysis with Wireshark).
 
 - **Signal Control:** Gain full control over DTR and RTS signals for precise device communication.
 
@@ -47,6 +49,8 @@ Download the latest versions for Windows, macOS, and Linux at [www.serialtool.co
 - **Modbus Compatibility:** Seamlessly interact with Modbus protocols, making SerialTool versatile for industrial applications.
 
 - **Spy Port Feature (Windows Only):** Monitor and intercept serial communication for advanced debugging (requires Windows kernel driver).
+
+-  **COM Sniffer (Windows Only):** Similar to SpyPort, it allows monitoring and sniffing of data transmitted through multiple COM ports opened by other software, including all related IOCTL signals.
 
 - **Portable Linux Version:** The Linux version is available as a portable application, including all necessary libraries to avoid installation hassles.
 
