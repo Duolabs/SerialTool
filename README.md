@@ -66,11 +66,11 @@ Download the latest versions for Windows, macOS, and Linux at [www.serialtool.co
 ## Some Screenshots
 
 ### Serial Port Terminal
-![Serial Port Terminal](https://www.serialtool.com/assets/img/ScreenShots/2024/serialtool-serial-console_windows_2000.png "Serial Port Terminal")
+![Serial Port Terminal](https://www.serialtool.com/assets/img/ScreenShots/2024/serialtool-serial-console_windows_2000.png "Serial Port Terminal Screen")
 *Quickly understand serial data with clear ASCII or HEX representations.*
 
 ### Serial Port HEX Terminal
-![Serial Port HEX Terminal](https://www.serialtool.com/assets/img/ScreenShots/2024/serialtool-serial-hex-terminal_windows_2000.png "Serial Port HEX Terminal")
+![Serial Port HEX Terminal](https://www.serialtool.com/assets/img/ScreenShots/2024/serialtool-serial-hex-terminal_windows_2000.png "Serial Port HEX Terminal Screen")
 *Easily analyze and troubleshoot serial data with the intuitive hexadecimal view.*
 
 ### Multiple COM Ports
