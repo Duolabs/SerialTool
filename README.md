@@ -9,30 +9,44 @@ Download the latest versions for Windows, macOS, and Linux at [www.serialtool.co
 - **Cross-Platform Compatibility:** Fully compatible with Windows (from Windows 7), macOS (from Mojave onward), and Linux, ensuring a seamless experience across platforms.
 
 - **Advanced Byte and Bit Visualization:** Includes **ByteVisualizer**, which provides detailed byte-to-bit visualization and simulates serial port communication protocols, making it ideal for debugging and analysis.
+ Read more: [https://serialtool.com/_en/serial-port-byte-bit-visualizer](https://serialtool.com/_en/serial-port-byte-bit-visualizer)
 
 - **Python Scripting Support:** Leverage Python scripts to automate serial communication tasks and extend SerialTool's functionality.
+Read more: [https://serialtool.com/_en/serial-port-byte-bit-visualizer](https://serialtool.com/_en/serial-port-python.php)
 
 - **Effortless COM Port Management:** Manage multiple COM ports simultaneously in a single instance of SerialTool, streamlining your workflow and device handling.
+Read more: [https://serialtool.com/_en/serial-port-byte-bit-visualizer](https://serialtool.com/_en/serial-port-multiple-serials)
+
+- **Virtual COM Port Emulation: (Windows only)** Support for virtual COM port emulation (Null-Modem) with integrated tools to create, manage, and link virtual ports for seamless serial communication testing.
+Read more: [[https://serialtool.com/_en/serial-port-byte-bit-visualizer](https://serialtool.com/_en/serial-port-multiple-serials)](https://serialtool.com/_en/virtual-com-ports.php) 
 
 - **Custom Serial Port Configurations:** Adjust baud rates, data bits, stop bits, parity settings, and more to meet specific communication requirements.
 
 - **Traffic Logging in Multiple Formats:** Record serial port traffic in both ASCII and HEX formats, enabling in-depth analysis and troubleshooting.
+  Read more: https://serialtool.com/_en/serial-port-traffic-recording-logging
 
 - **Hex File Editor:** Easily edit and analyze hexadecimal files, providing a comprehensive solution for working with binary data.
+  Read more: https://serialtool.com/_en/hex-file-editor
 
 - **USB Mapper and Viewer:** Visualize and map USB devices connected to your system, providing insights into USB topology and communication.
+  Read more: https://serialtool.com/_en/serial-port-usbmap
 
 - **Auto Answer Functionality:** Automate responses to specific packets for streamlined application testing.
+  Read more: https://serialtool.com/_en/serial-port-auto-answer
 
 - **Buffer Management:** Utilize multiple buffers for efficient data storage and organized transmission.
+  Read more: https://serialtool.com/_en/serial-port-multiple-buffers
 
 - **Scheduled Data Transmission:** Schedule precise timing for data sends, ensuring reliable and accurate performance testing.
+  Read more: https://serialtool.com/_en/serial-port-multiple-send
 
 - **Packet Alarms:** Set alarms to trigger on specific packet reception, with options to continue logging or stop as required.
+  Read more: https://serialtool.com/_en/serial-port-alarm-trigger-on-buffer
 
 - **Hexadecimal Traffic View:** Visualize incoming and outgoing traffic in HEX format for comprehensive data analysis.
 
 - **CRC Support:** Access 32 CRC types to maintain data integrity.
+  Read More: https://serialtool.com/_en/serial-port-crc-send
 
 - **Flexible Data Views:** View serial data in either packet format or continuous flow, depending on your needs.
 
@@ -47,10 +61,13 @@ Download the latest versions for Windows, macOS, and Linux at [www.serialtool.co
 - **Real-Time Data Monitoring:** Analyze and debug serial traffic in real-time with intuitive and responsive tools.
 
 - **Modbus Compatibility:** Seamlessly interact with Modbus protocols, making SerialTool versatile for industrial applications.
+  Read more: https://serialtool.com/_en/serial-port-modbus-client-rtu-ascii-tcp
 
 - **Spy Port Feature (Windows Only):** Monitor and intercept serial communication for advanced debugging (requires Windows kernel driver).
+  Read more: https://serialtool.com/_en/serial-com-spy-sniffer-logger.php
 
 -  **COM Sniffer (Windows Only):** Similar to SpyPort, it allows monitoring and sniffing of data transmitted through multiple COM ports opened by other software, including all related IOCTL signals.
+  Read more: https://serialtool.com/_en/serial-com-sniffer.php
 
 - **Portable Linux Version:** The Linux version is available as a portable application, including all necessary libraries to avoid installation hassles.
 
@@ -109,17 +126,11 @@ COM Sniffer is one of the most powerful and comprehensive modules integrated int
 
 ## Video Tutorials
 
-### Getting Started with SerialTool
-[SerialTool Basic Functions](https://youtu.be/9KUgLtzWmaY)  
-*Learn the basic features and setup of SerialTool.*
-
-### Advanced Monitoring and Logging
-[How to Sniff, Log, and Monitor Serial Port Traffic](https://youtu.be/X7EX7Wbh4BA)  
-*Detailed tutorial on using SpyPort to capture, log, and analyze serial port traffic on Windows.*
+Browse our tutotials videos:
+https://serialtool.com/_en/tutorial-serialtool-videos-list.php
 
 
 ## License
 
 SerialTool is free to use. Additional features and support plans are available for professional users.
-
 For more details, visit [www.serialtool.com](https://www.serialtool.com).
