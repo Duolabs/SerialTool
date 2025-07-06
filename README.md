@@ -101,6 +101,12 @@ Download the latest versions for Windows, macOS, and Linux at [www.serialtool.co
 ![SpyPort](https://www.serialtool.com/assets/img/ScreenShots/2024/serialtool-serial-spyport-datalogger-com-sniffer_windows_2000.png "SpyPort Data Sniffer and Logger")
 *Advanced Serial Port Monitoring with Kernel-Level Access on Windows.*
 
+### COM Sniffer - Serial
+COM Sniffer is one of the most powerful and comprehensive modules integrated into SerialTool, designed for professionals who need a high-level solution to monitor, log, and analyze in real time all serial traffic (RS232, RS422, RS485) passing through the COM ports of their Windows system. 
+
+![COM Sniffer](https://serialtool.com/assets/img/ScreenShots/Serial-Port-Sniffer-MainPage-Data_1200.png "COM Sniffer")
+*Advanced Serial Port Monitoring with Kernel-Level Access on Windows.*
+
 ## Video Tutorials
 
 ### Getting Started with SerialTool
